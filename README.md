@@ -40,7 +40,7 @@ Business Insights
 
 ## Dashboard
 
-![Financial Analytics Dashboard](Images/dashboard.png)
+[![Financial Analytics Dashboard](Images/dashboard.png)](https://public.tableau.com/app/profile/aditya.reddy7042/viz/Book1_17869530547950/Dashboard1?publish=yes)
 
 ## Key Analysis
 
